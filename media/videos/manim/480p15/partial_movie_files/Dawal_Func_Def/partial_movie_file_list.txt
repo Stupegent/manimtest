@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/user/Desktop/manimtest/media/videos/manim/480p15/partial_movie_files/Dawal_Func_Def/3163782288_4227145916_223132457.mp4'
+file 'file:C:/Users/user/Desktop/manimtest/media/videos/manim/480p15/partial_movie_files/Dawal_Func_Def/2201830969_1458367395_4012110252.mp4'
+file 'file:C:/Users/user/Desktop/manimtest/media/videos/manim/480p15/partial_movie_files/Dawal_Func_Def/2201830969_329969645_3321671876.mp4'
+file 'file:C:/Users/user/Desktop/manimtest/media/videos/manim/480p15/partial_movie_files/Dawal_Func_Def/2201830969_269502200_1700477856.mp4'
+file 'file:C:/Users/user/Desktop/manimtest/media/videos/manim/480p15/partial_movie_files/Dawal_Func_Def/2201830969_2052293827_2579357882.mp4'
+file 'file:C:/Users/user/Desktop/manimtest/media/videos/manim/480p15/partial_movie_files/Dawal_Func_Def/2201830969_4158490297_897391037.mp4'
+file 'file:C:/Users/user/Desktop/manimtest/media/videos/manim/480p15/partial_movie_files/Dawal_Func_Def/2201830969_545622840_674521930.mp4'
+file 'file:C:/Users/user/Desktop/manimtest/media/videos/manim/480p15/partial_movie_files/Dawal_Func_Def/2201830969_1632031348_2247190428.mp4'
+file 'file:C:/Users/user/Desktop/manimtest/media/videos/manim/480p15/partial_movie_files/Dawal_Func_Def/2201830969_2056820561_674521930.mp4'
+file 'file:C:/Users/user/Desktop/manimtest/media/videos/manim/480p15/partial_movie_files/Dawal_Func_Def/2201830969_329969645_3749750885.mp4'
